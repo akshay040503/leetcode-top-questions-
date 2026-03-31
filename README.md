@@ -1,2 +1,57 @@
-# leetcode-top-questions-
-This repository hold tops question from the topics of DSA and must to do questions.
+All leetcode lists so far:
+
+ Dp(45 problems):
+ https://leetcode.com/list/9x5spweh
+
+Graphs(28 problems):
+https://leetcode.com/list/9x1uea1h
+
+Backtracking(17 problems):
+https://leetcode.com/list/9x9qz3md
+
+Linkedlist(13 problems):
+https://leetcode.com/list/9rizphpj/
+
+
+Hash table and map(46 problems):
+https://leetcode.com/list/504wrexe/
+
+Sliding window(12 problems):
+https://leetcode.com/list/x1lbzfk3/
+
+Trie(8 problems):
+https://leetcode.com/list/5uyupjcr/
+
+Monotonic queue and priority queue(13 problems):
+https://leetcode.com/list/9rt1jt27/
+
+Trees(Top 26):
+https://leetcode.com/list/9ak7i9wv/
+
+Trees(Top 74):
+https://leetcode.com/list/5chyqxsi/
+
+Must do easy questions:
+https://leetcode.com/list/9x5k9q47
+
+Must do medium questions:
+https://leetcode.com/list/9x5k2fiv
+
+60 questions to solve:
+https://leetcode.com/list/9xpbvcmc
+
+Blind curated 75:
+https://leetcode.com/list/9hite3ug
+
+
+Easy and mediums(45 questions):
+
+https://leetcode.com/list/9de5c5o5
+
+Hards(20 questions ):
+
+https://leetcode.com/list/9de9px6d
+
+Some of the hard questions taken from daily leetcode coding challenge(20 questions):
+
+https://leetcode.com/list/9n9nn3z7
